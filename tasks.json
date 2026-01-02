@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Complete EMBA",
+        "completed": true
+    },
+    {
+        "description": "Learn Python",
+        "completed": false
+    },
+    {
+        "description": "Visit my dad!",
+        "completed": false
+    }
+]
