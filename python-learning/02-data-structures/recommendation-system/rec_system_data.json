@@ -1,0 +1,35 @@
+{
+    "users": {
+        "Rune": [
+            "Coke",
+            "Ice"
+        ],
+        "Daniela": [
+            "Coke",
+            "Fanta"
+        ],
+        "Hailey": [
+            "Coke",
+            "Fanta"
+        ]
+    },
+    "products": {
+        "Coke": "Coca Cola",
+        "Fanta": "Fanta",
+        "Ice": "Ice Cream"
+    },
+    "product_users": {
+        "Coke": [
+            "Rune",
+            "Daniela",
+            "Hailey"
+        ],
+        "Ice": [
+            "Rune"
+        ],
+        "Fanta": [
+            "Daniela",
+            "Hailey"
+        ]
+    }
+}
